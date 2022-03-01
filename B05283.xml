@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act of sederunt, of the Lords of Council and Session, upon their descreet declaring who are members of the Colledge of Justice; and what are their priviledges within the town of Edinburgh, and liberties.</title>
+            <author>Scotland. Court of Session.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05283</idno>
+            <idno type="STC">Wing S1371D</idno>
+            <idno type="STC">ESTC R184036</idno>
+            <idno type="EEBO-CITATION">52615043</idno>
+            <idno type="OCLC">ocm 52615043</idno>
+            <idno type="VID">176151</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05283)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176151)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2762:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act of sederunt, of the Lords of Council and Session, upon their descreet declaring who are members of the Colledge of Justice; and what are their priviledges within the town of Edinburgh, and liberties.</title>
+                  <author>Scotland. Court of Session.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>by the heir of Andrew Anderson,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1687]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title vignette: royal seal with initials I R.</note>
+                  <note>Caption title.</note>
+                  <note>Initial letter.</note>
+                  <note>Imprint from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Court of Session --  Early works to 1800.</term>
+               <term>Lawyers --  Scotland --  Edinburgh --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:176151:1"/>
+            <!-- PDF PAGE 7 -->
+            <pb facs="tcp:176151:2"/>
+            <!-- PDF PAGE 8 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:176151:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:176151:3"/>
+            <!-- PDF PAGE 9 -->
+            <pb facs="tcp:176151:3"/>
+            <!-- PDF PAGE 9 -->
+            <head>
+               <figure>
+                  <p>I<hi rend="sup">7</hi> R</p>
+                  <p>DIEV ET MON DROIT</p>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>ACT of SEDERUNT<g ref="char:punc">▪</g>
+OF THE Lords of Council and Seſsion,</head>
+            <head type="sub">
+               <g ref="char:V">Ʋ</g>pon their <hi>Decreet</hi> Declaring who are<hi>Members</hi> of the <hi>Colledge</hi> of <hi>Juſtice;</hi> And what are their <hi>Priviledges</hi> within the Town of <hi>Edinburgh,</hi> and Liberties thereof.</head>
+            <opener>
+               <dateline>
+                  <seg rend="decorInit">A</seg>T <hi>EDINB<g ref="char:V">Ʋ</g>RGH</hi> 
+                  <date>the twenty third day of <hi>February</hi> One thouſand ſix hundred and eighty ſeven years,</date>
+               </dateline>
+            </opener>
+            <p>The LORDS of <hi>Council</hi> and <hi>Seſſion</hi> having Conſidered the <hi>Summons</hi> of <hi>Declarator,</hi> Raiſed at the Inſtance of the <hi>Members</hi> of the <hi>Colledge</hi> of <hi>Juſtice,</hi> of their <hi>Priviledges</hi> AGAINST the Town of <hi>Edinburgh;</hi> The <hi>Suſpenſion</hi> Raiſed by them of the Charges given at the Inſtance of the Town, for Payment of the <hi>Annuity;</hi> And the <hi>Bill</hi> of <hi>Suſpenſion</hi> given in of the Charges for their propor<g ref="char:EOLhyphen"/>tions of His Majeſties <hi>Supply:</hi> The Anſwers made thereto for the Town, and whole Diſpute proponed for either Party, with the Acts of Parliament, and other Acts and Writs founded on <hi>hinc inde</hi> in the Debate; THEY SUSTAIN the fore<g ref="char:EOLhyphen"/>ſaid <hi>Declarator,</hi> as to the <hi>Members</hi> of the <hi>Colledge</hi> of <hi>Juſtice,</hi> their <hi>Immunity</hi> and <hi>Exemption</hi> from payment of the <hi>Annuity,</hi> for the Miniſters Stipends, And DECERNS and DECLARES them free thereof, both as to by gones and in time<g ref="char:EOLhyphen"/>coming; AND SUSPENDS the Letters <hi>ſimpliciter</hi> for the ſame. And Likewiſe SUSTAINS the <hi>Declarator</hi> as to their Immunity from <hi>Watching</hi> and <hi>Warding,</hi> and any <hi>Impoſitions</hi> for the ſame; and from payment of any <hi>Cuſtoms, Cauſey<g ref="char:EOLhyphen"/>maills, Shore-dues,</hi> and other <hi>Impoſitions</hi> laid on their <hi>Proviſions</hi> of Meat and Drink for their Families, and their other <hi>Goods,</hi> carry<g ref="char:EOLhyphen"/>ed to, or from the Town, and Collected at the Ports, or other places within the Liberties of the Town. AND DE<g ref="char:EOLhyphen"/>CLARES that the producing a <hi>Certificat</hi> Subſcribed by a <hi>Member</hi> of <hi>the Colledge</hi> of <hi>Juſtice,</hi> bearing, that the Goods or Proviſions, do properly belong to him, ſhall be ſufficient for freeing them from paying the ſaids <hi>Cuſtoms</hi> and <hi>Impoſitions,</hi> the <hi>Certificat</hi> being renewed once in the half Year at leaſt; AND SUSTAINS the <hi>Declarator</hi> as to the Purſuers Exemption from the <hi>Civil Jurisdiction</hi> of the Ma<g ref="char:EOLhyphen"/>giſtrats of <hi>Edinburgh;</hi> AND DECLARES that upon their proponing <hi>Declinator</hi> thereof, the Magiſtrats ought to Deſiſt from any Procedor againſt them, without neceſſity of <hi>Advocation:</hi> And before ANSWER as to the <hi>Criminal Juriſdiction,</hi> and to that Point of the <hi>Declarator,</hi> concerning the Purſuers <hi>Imploy<g ref="char:EOLhyphen"/>ing <g ref="char:V">Ʋ</g>nfree-men</hi> within the Town, THE LORDS DECLARES they will take Tryal what has been the former Cuſtom as to both theſe Points, and particularly what was done in the Caſes mentioned in the Debate; And the LORDS ORDAINS, That where a <hi>Taxation</hi> or <hi>Ceſs</hi> is Impoſed by Acts of <hi>Parliament,</hi> or <hi>Convention</hi> of <hi>Eſtates;</hi> To which the <hi>Members</hi> of the <hi>Colledge</hi> of <hi>Juſtice</hi> are, or ſhall be lyable, that there be a ſpecial and diſtinct <hi>Stent</hi> made up<g ref="char:EOLhyphen"/>on the Town and Suburbs for the <hi>Quota</hi> Impoſed, and ſo much more only as may defray the incident Charges of Collecting the ſame, wherein no <hi>Exemption</hi> ſhall be given to the <hi>Magiſtrats, Stent-maſters,</hi> or other perſons, but that they be Stented for their proportions of theſe <hi>Impoſitions,</hi> als well as other Inhabitants; And likewiſe, that the <hi>Tenements</hi> belonging to <hi>Trads</hi> be Stented, and the Towns <hi>Common-Good,</hi> where the ſame conſiſts in <hi>Land,</hi> or <hi>Feu-duties,</hi> and does not bear bur<g ref="char:EOLhyphen"/>den with the Shire: BUT PREJUDICE to the Town of <hi>Edinburgh,</hi> if they think fit to lay on the proportions of theſe who have been in uſe to be exempt<g ref="char:EOLhyphen"/>ed upon their own Neighbours, but not upon any <hi>Members</hi> of the <hi>Colledge</hi> of <hi>Juſtice.</hi> AND to the end, theſe Impoſitions Warranted by publick Authority, may be equally laid on, and theſe of the <hi>Colledge</hi> of <hi>Juſtice</hi> who are <hi>Heretors,</hi> not burdened beyond their juſt proportions, THE LORDS DECLARES, that they will from time to time Nominat one <hi>Advocat,</hi> and one <hi>Writter to the Signet,</hi> for each Quarter of the Town, to Meet with the Stent-Maſters, who ſhall be appointed by the Magiſtrats, at their taking of the <hi>Survey</hi> and <hi>Valuation</hi> of the whole Tenements within the Burgh and Suburbs, and of the <hi>Trade</hi> of the Burgers, which is in uſe to be Stented, and to bear a part of the Burden of the <hi>Ceſs,</hi> and to be preſent at all their Meetings for Impoſing of the <hi>Stent,</hi> and to ſee that the <hi>Valuation</hi> be <hi>juſtly</hi> and <hi>equally</hi> made, and the <hi>Stent</hi> laid on accordingly; AND for that Effect, APPOINTS the Magiſtrats to make Intimation of the time of the Stent-Maſters Meeting, to the <hi>Lord Preſident</hi> of the <hi>Seſſion,</hi> the <hi>Dean of Faculty,</hi> and the <hi>Keeper of the Signet,</hi> ten days of before, in time of Seſſi<g ref="char:EOLhyphen"/>on, and twenty days in time of Vacans: And APPOINTS this Method of Stenting to begin and take effect for that Term of His Majeſties Supply, due and payable at <hi>Martinmas</hi> next, One thouſand ſix hundred and eighty ſeven years, but prejudice to the Town of <hi>Edinburgh</hi> to uſe Execution for that Terms Supply, which was payable at <hi>Martinmas</hi> laſt, One thouſand ſix hundred and eighty ſix years, and the <hi>Whitſundays</hi> Term now enſuing, according to the Stent al<g ref="char:EOLhyphen"/>ready Impoſed for theſe two Terms. AND THE LORDS DO DECLARE the perſons following to be <hi>Members</hi> of the <hi>Colledge</hi> of <hi>Justice,</hi> who are to Enjoy the <hi>Priviledges</hi> above-mentioned, <hi>VIZ.</hi> the <hi>Lords</hi> of <hi>Seſſion, Advocats, Clerks</hi> of <hi>Seſſion, the Clerks</hi> of <hi>the Bills,</hi> the <hi>Writers to the Signet,</hi> the <hi>Deputs</hi> of the <hi>Clerks of Seſſion</hi> who Serve in the <hi>Outter-Houſe,</hi> and three <hi>Subſtitutes</hi> for <hi>Regiſtrations,</hi> being one in each Clerks Office, the three <hi>Deputs</hi> of the <hi>Clerks</hi> of the <hi>Bills,</hi> the <hi>Clerks</hi> of <hi>Exchequer,</hi> the <hi>Directors</hi> of the <hi>Chancellary</hi> their <hi>Deput</hi> and two <hi>Clerks</hi> thereof, the <hi>Writer</hi> to the <hi>Privy-Seal</hi> and his <hi>Deput,</hi> the <hi>Clerks</hi> of the <hi>General Regiſters</hi> of <hi>Seaſins</hi> and <hi>Hornings,</hi> the <hi>Macers</hi> of the <hi>Seſſion,</hi> the <hi>Keeper</hi> of the <hi>Minut-Book,</hi> the <hi>Keeper</hi> of the <hi>Rolls</hi> of the <hi>Inner</hi> and <hi>Outter-Houſſes.</hi> AND THE LORDS Do <hi>extend</hi> the <hi>Priviledges</hi> foreſaids to the perſons following, <hi>VIZ.</hi> One actual <hi>Servant</hi> of each <hi>Lord</hi> of the <hi>Seſſion,</hi> one <hi>Servant</hi> of each <hi>Advocat,</hi> four <hi>Extracters</hi> in each of the three <hi>Clerks Offices</hi> of the <hi>Seſſion,</hi> two <hi>Servants</hi> imployed by the <hi>Clerk</hi> of <hi>Regiſter</hi> in Keeping the <hi>publick Registers,</hi> the <hi>Keeper</hi> of the <hi>Seſſion-Houſe,</hi> and the <hi>Keeper</hi> of the <hi>Advocats Library.</hi> IT IS ALWAYES hereby DECLARED, That if any of theſe <hi>Servants</hi> and others to whom the foreſaids <hi>Privi<g ref="char:EOLhyphen"/>ledges</hi> are extended, ſhall Keep <hi>Merchant-Shops, Taverns</hi> or <hi>Ale-houſes,</hi> or exerciſe any other <hi>Trade</hi> within the Burgh, they ſhall not enjoy any of the Priviledges a<g ref="char:EOLhyphen"/>bove-mentioned. And ORDAINS theſe Preſents to be <hi>Recorded</hi> in the <hi>Books</hi> of <hi>Sederunt,</hi> and to be <hi>Printed, Sic Subſcribitur, G. Lockhart,</hi> I. P. D. EX<g ref="char:EOLhyphen"/>TRACTED forth of the Books of <hi>Sederunt,</hi> by me <hi>George</hi> Viſcount of <hi>Tarbat,</hi> Lord <hi>Mcleod</hi> and <hi>Castle-haven,</hi> &amp;c. Clerk to His Majeſties Council, Regiſter and Rolls.</p>
+            <closer>
+               <signed>Tarbat Cl. Rgr.</signed>
+               <lb/>
+GOD SAVE THE KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred <hi>Majeſty,</hi> and to the City and Colledge of <hi>Edinburgh, Anno DOM.</hi> 1687.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
